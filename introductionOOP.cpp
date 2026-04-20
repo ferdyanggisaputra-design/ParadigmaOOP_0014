@@ -13,3 +13,9 @@ public :
         cout << "Nilai : " << nilai << endl;
     }
 }; //batas class
+
+int main(){
+    Mahasiswa mhs;
+    mhs.nim = 2025;
+    
+}
